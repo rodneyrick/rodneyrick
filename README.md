@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi there! 👋
-I'm [Your Name], a Software Engineer & AI Specialist specializing in Data Science, Machine Learning, and Generative AI.  
+I'm a Software Engineer & AI Specialist specializing in Data Science, Machine Learning, and Generative AI.  
 💡 I love building intelligent applications, optimizing cloud infrastructure, and working on LLM-powered systems.
 
 ## 🔗 Connect with me:
