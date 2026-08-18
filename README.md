@@ -6,14 +6,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 2RP Net.
+- 🔭 I’m currently working on Inatel.
 - 🌱 I’m currently learning everything about AI, Generative AI, LLM and others
 - 👯 I’m looking to collaborate on project in AI.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 # Hi there! 👋
@@ -25,7 +23,7 @@ I'm a Software Engineer & AI Specialist specializing in Data Science, Machine Le
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 2RP Net.
+- 🔭 I’m currently working on INATEL.
 - 🌱 I’m currently learning everything about AI, Generative AI, LLM and others
 - 👯 I’m looking to collaborate on project in AI.
 
